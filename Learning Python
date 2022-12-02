@@ -1,0 +1,66 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNXyYcurqI1yubQ0RLF+yDR",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/RyanOliveira10/Data-Science/blob/main/Learning%20Python\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Curso de python"
+      ],
+      "metadata": {
+        "id": "UxBkZRAo8ToE"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### Basico de python"
+      ],
+      "metadata": {
+        "id": "e_0jAIer85gp"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "###### Comando Round"
+      ],
+      "metadata": {
+        "id": "wjf-Dpys9FtS"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "3i35TRzh9Isp"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
